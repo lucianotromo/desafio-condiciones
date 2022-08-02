@@ -1,0 +1,49 @@
+*{
+    background-color: aliceblue;
+}
+
+.parte1{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 8rem
+}
+
+.border{
+    border: solid 2px rebeccapurple;
+}
+
+
+
+.parte2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stickers{
+    display: flex;
+}
+
+.sticker{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+#btn{
+    width: 5rem;
+}
+
+.password{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pass-btn{
+    margin-top: 1rem;
+}
